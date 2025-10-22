@@ -1,0 +1,12 @@
+{
+  "ZAHWI-VIP-01": {
+    "status": "active",
+    "expire_date": "31/12/2025",
+    "owner": "Zahwi"
+  },
+  "ZAHWI-DEMO-02": {
+    "status": "expired",
+    "expire_date": "01/09/2024",
+    "owner": "DemoUser"
+  }
+}
